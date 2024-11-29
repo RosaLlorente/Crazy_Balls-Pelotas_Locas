@@ -3,13 +3,8 @@
 ![image](https://github.com/user-attachments/assets/dfd12ffc-19a4-41a9-a2a4-fdfae1947c46)
 
 <h2>Instructions/Instrucciones:</h2>
-Player 1/Jugador 1:
--w up/arriba
--s down/abajo
+-Click
 
-Player 2/Jugador 2:
--arrows up up/flecha arriba arriba
--arrowdown down/flecha abajo abajo
 <p>The following technologies have been used in this project/En este proyecto se han utilizado las siguientes tecnologías:</p>
 
 <div align="left">
